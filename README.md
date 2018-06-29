@@ -9,3 +9,5 @@ Pick any color to draw in a pixel art style.
 4. Double click a cell to set it's color back to white;<br>
 5. Press reset button to clear the grid;<br>
 6. Start over.
+
+link:https://moh-14.github.io/Pixel-Art-Maker/
